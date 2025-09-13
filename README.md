@@ -1,4 +1,4 @@
-# 🌱 Garter: Python for the Browser
+# 🐍 Garter: Python for the Browser
 
 **Garter** is a lightweight, sandboxed dialect of Python designed for client-side execution in the browser.  
 It runs inside the [Serpentes VM](https://github.com/serp-hq/serp-serpentes), enabling end-to-end Python — from server to client.
